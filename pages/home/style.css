@@ -1,0 +1,105 @@
+.hero {
+    width: 65%;
+    margin: 0 auto;
+    justify-content: center;
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-bottom: 149px;
+}
+
+.hero-texto {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #FFFF;
+    width: 445px;
+    position: absolute; 
+    bottom: 170px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 23px;
+    line-height: 44px;
+    letter-spacing: -0.446429px;
+    color: #33323D;
+
+}
+
+.hero-texto h1 {
+    
+    padding: 56px 28px;
+}
+
+.btn-hero {
+    all: unset;
+    width: 200px;
+    background: #203A4C;
+    text-align: center;
+}
+
+.btn-hero a {
+    padding: 17px;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;    
+    color: #FFFF;
+    text-decoration: none;
+}
+
+
+
+.sobre{
+    width: 65%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;     
+}
+
+.sobre img {
+    width: 50%;
+    margin-right: 140px;
+}
+
+.sobre-texto {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    height: 600px;
+    
+}
+
+.sobre-texto h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    padding-top: 51px;
+    padding-bottom: 28px;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+}
+
+.sobre-texto p {
+    
+    padding-bottom: 24px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.sobre-texto a {
+    all: unset;
+    align-self: center;
+    width: 204px;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: #33323D;
+    border: 1px solid black;
+    padding: 17px 28px;
+    text-align: center;
+    text-decoration: none;
+}
+

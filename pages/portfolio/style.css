@@ -1,0 +1,108 @@
+.hero{
+    width: 65%;
+    margin: 0 212px
+}
+
+.hero img {
+    width: 540px;
+
+}
+
+.hero h1 {
+    padding-top: 103px;
+    padding-bottom: 28px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.hero p {
+    padding-bottom: 54px;
+    width: 350px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.hero a {
+    
+    width: 186px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 17px 38px;
+    text-decoration: none;
+    color: #33323D;
+
+}
+
+.manage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 212px;
+    padding-top: 64px;
+}
+
+.manage-texto-hero {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    padding-left: 125px;
+}
+
+
+
+.bookmark {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 212px;
+    padding-top: 80px;
+}
+
+.bookmark-texto-hero {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    margin-right: 125px;
+    margin-left: 128px;
+}
+
+.insure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 212px;
+    padding-top: 80px;
+}
+
+.insure-texto-hero {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    padding-left: 125px;
+}
+
+.fylo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 212px;
+    padding-top: 80px;
+}
+
+.fylo-texto-hero {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    margin-right: 125px;
+    margin-left: 128px;
+}
+

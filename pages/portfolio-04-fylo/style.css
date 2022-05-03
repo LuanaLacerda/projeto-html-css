@@ -1,0 +1,145 @@
+.hero-fylo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 212px;
+}
+
+.hero-fylo img {
+    width: 1110px;
+    padding-top: 65px;
+}
+
+.hero-fylo-texto{
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+.fylo-texto {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    margin-right: 125px;
+    padding-top: 115px;
+}
+
+.fylo-texto h2 {
+    padding-top: 48px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+}
+
+.fylo-texto p {
+    padding-top: 30px;
+    padding-bottom: 53px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.fylo-texto span {
+    padding-bottom: 32px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5FB4A2;
+}
+
+.fylo-texto a {
+    width: 178px;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px 60px;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #33323D;
+
+}
+
+.projeto {
+    display: flex;
+    flex-direction: column;
+    width: 635px;
+    padding-top: 115px;
+}
+
+.projeto h3 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    line-height: 42px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+}
+
+.projeto p {
+    padding-top: 28px;
+    padding-bottom: 40px;
+    width: 635px;
+    font-size: 15px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.8;
+}
+
+.projeto img {
+    width: 635px;
+}
+
+.navegacao-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 1110px;
+    padding-top: 65px;
+}
+.navegacao-bottom a {
+    text-decoration: none;
+    
+}
+
+.navegacao-left, .navegacao-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.navegacao-left-span span, .navegacao-right-span span {
+    font-size: 32px;
+    color:#33323D;
+}
+
+.navegacao-left-texto {
+    padding-left: 32px;
+}
+.navegacao-left-texto h3, .navegacao-right-texto h3 {
+
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+
+}
+
+.navegacao-left-texto span, .navegacao-right-texto span {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    opacity: 0.5;
+}
+
+.navegacao-right-texto{
+    padding-right: 32px;
+}
+
